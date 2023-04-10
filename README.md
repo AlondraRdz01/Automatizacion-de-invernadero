@@ -6,9 +6,9 @@ Automatización de invernadero con IA.
 ## **ÍNDICE**
 
 * [1. Intro](https://github.com/AlondraRdz01/Automatizacion-de-invernadero#1intro)
-* [2. Qúe construí](#)
+* [2. Qúe construí](https://github.com/AlondraRdz01/Automatizacion-de-invernadero/blob/main/README.md#2qu%C3%A9-constru%C3%AD)
 * [3. Objetivo del Proyecto](#)
-* [4. Link a Demo](#)
+
 
 ****
 
