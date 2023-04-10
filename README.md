@@ -1,5 +1,5 @@
 # Automatizacion-de-invernadero
-Automatización de invernadero con IA.
+Automatización de invernadero con IA utilizando LabVIEW.
 
 
 
